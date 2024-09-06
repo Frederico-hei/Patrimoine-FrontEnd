@@ -6,7 +6,7 @@ import ApplyButton from "./components/ApplyButton";
 import PatrimoineTable from "./components/PatrimoineTable";
 import EditDateFinForm from "./components/EditDateFinForm";
 import PatrimoineChartWrapper from "./components/PatrimoineChartWrapper";
-import data from "../../data/data.json";
+import data from "../data/data.json";
 import Personne from "../models/Personne";
 import Patrimoine from "../models/Patrimoine";
 import BienMateriel from "../models/possessions/BienMateriel";
